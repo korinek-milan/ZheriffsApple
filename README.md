@@ -1,7 +1,7 @@
 # Zheriff's Apple
 Developed with Unreal Engine 5
 
-This project was created as a university project and study materials
+This project was created as a university project and study materials.\
 All used assets are free for personal use only.
 
 ## Goal of the game
